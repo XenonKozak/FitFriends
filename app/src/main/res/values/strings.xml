@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">FitFriends</string>
+    <string name="title_home">Strona główna</string>
+    <string name="title_map">Mapa</string>
+    <string name="title_weather">Pogoda</string>
+    <string name="title_profile">Profil</string>
+    <string name="start_activity">Rozpocznij aktywność</string>
+    <string name="stop_activity">Zakończ aktywność</string>
+    <string name="login">Zaloguj się</string>
+    <string name="register">Zarejestruj się</string>
+    <string name="logout">Wyloguj się</string>
+    <string name="email">E-mail</string>
+    <string name="password">Hasło</string>
+    <string name="confirm_password">Potwierdź hasło</string>
+    <string name="welcome_message">Witamy w FitFriends!</string>
+    <string name="track_your_activity">Śledź swoje aktywności sportowe</string>
+    <string name="current_weather">Aktualna pogoda</string>
+    <string name="temperature">Temperatura</string>
+    <string name="humidity">Wilgotność</string>
+    <string name="wind_speed">Prędkość wiatru</string>
+    <string name="activity_duration">Czas trwania</string>
+    <string name="activity_distance">Dystans</string>
+    <string name="activity_calories">Kalorie</string>
+    <string name="authentication">Logowanie / Rejestracja</string>
+    <string name="user_profile">Profil użytkownika</string>
+    <string name="user_email">E-mail: user@example.com</string>
+    <string name="user_id">ID użytkownika: 123456</string>
+    <string name="about_fitfriends">O FitFriends</string>
+    <string name="about_fitfriends_desc">Aplikacja do śledzenia aktywności fizycznej, która łączy GPS, pogodę i funkcje społecznościowe, aby pomóc Ci osiągać cele!</string>
+    <string name="features">Funkcje:
+• Śledzenie aktywności GPS
+• Integracja pogody
+• Logowanie przez Firebase
+• Mapy Google</string>
+    <string name="activity_tracking">Śledzenie aktywności</string>
+    <string name="todays_stats">Statystyki dzisiaj</string>
+    <string name="current_location">Aktualna lokalizacja:</string>
+    <string name="getting_location">Pobieranie lokalizacji...</string>
+    <string name="route_distance">Dystans trasy:</string>
+    <string name="clear_route">Wyczyść trasę</string>
+    <string name="center_map">Wyśrodkuj mapę</string>
+    <string name="weather_details">Szczegóły pogody</string>
+    <string name="activity_recommendations">Rekomendacje aktywności</string>
+    <string name="check_weather_recommendations">Sprawdź pogodę, aby uzyskać spersonalizowane rekomendacje aktywności.</string>
+    <string name="refresh_weather">Odśwież pogodę</string>
+    <string name="description">Opis</string>
+    
+    <!-- OpenWeatherMap API Key -->
+    <string name="openweathermap_api_key" templateMergeStrategy="preserve" translatable="false">92315e89b4f7fa0ae2a5210d71db120d</string>
+    
+    <!-- Google Maps API Key - Replace with your actual API key -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCmVPWkiMzZne4kpipyC9HXgjOjiKbz_nw</string>
+</resources>
