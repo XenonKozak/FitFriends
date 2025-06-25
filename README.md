@@ -44,7 +44,7 @@ Aplikacja mobilna do śledzenia aktywności fizycznej, która łączy GPS, pogod
 - OpenWeatherMap API
 - Material Design
 
-## Autorzy
+## Autor
 - Wiktor Wardziak
 
 ---
